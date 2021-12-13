@@ -3,13 +3,7 @@ import Home from "./components/Home";
 import Empdetails from './components/Empdetails';
 import Empbirthday from './components/Empbirthday';
 import Error from './components/Error';
-
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route
-} from "react-router-dom"; 
-
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom"; 
 
 const App = () => {
   return (
