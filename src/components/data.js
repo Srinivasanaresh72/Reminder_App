@@ -102,7 +102,7 @@ const data = [
 	{
 		id: 13,
 		name: 'Anjana Kothari',
-		dob:"12 October",
+		dob:"14 December",
 		age: 20,
 		gender: "Female",
 		image: `${female_avtar}`
@@ -230,7 +230,7 @@ const data = [
 	{
 		id: 29,
 		name: 'Sweta Mishra',
-		dob:"26 October",
+		dob:"14 December",
 		age: 19,
 		gender: "Female",
 		image: `${female_avtar}`
@@ -310,7 +310,7 @@ const data = [
 	{
 		id: 39,
 		name: 'Arun Kohli',
-		dob:"29 October",
+		dob:"14 December",
 		age: 26,
 		gender: "Male",
 		image: `${male_avtar}`
@@ -334,7 +334,7 @@ const data = [
 	{
 		id: 42,
 		name: 'Lakshmi Barad',
-		dob:"29 October",
+		dob:"14 December",
 		age: 28,
 		gender: "Male",
 		image: `${male_avtar}`
