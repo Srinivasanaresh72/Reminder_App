@@ -1,5 +1,5 @@
-import avtarMale from '../image/male.png';
-import avtarFemale from '../image/female.png';
+import male_avtar from '../images/male_avtar.png';
+import female_avtar from '../images/female_avtar.png';
 
 const data = [
 	
@@ -9,7 +9,7 @@ const data = [
 		dob:"20 September",
 		age: 24,
 		gender: "Male",
-		image: `${avtarMale}`		
+		image: `${male_avtar}`		
 	},
 	{
 		id: 2,
@@ -17,7 +17,7 @@ const data = [
 		dob:"05 June",
 		age: 35,
 		gender: "Female",
-		image: `${avtarFemale}`		
+		image: `${female_avtar}`		
 	},
 	{
 		id: 3,
@@ -25,7 +25,7 @@ const data = [
 		dob:"20 October",
 		age: 22,
 		gender: "Male",
-		image: `${avtarMale}`		
+		image: `${male_avtar}`		
 	},
 	{
 		id: 4,
@@ -33,7 +33,7 @@ const data = [
 		dob:"22 August",
 		age: 23,
 		gender: "Male",
-		image: `${avtarMale}`		
+		image: `${male_avtar}`		
 	},
 	{
 		id: 5,
@@ -41,7 +41,7 @@ const data = [
 		dob:"06 May",
 		age: 24,
 		gender: "Male",
-		image: `${avtarMale}`		
+		image: `${male_avtar}`		
 	},
 	{
 		id: 6,
@@ -49,7 +49,7 @@ const data = [
 		dob:"14 July",
 		age: 24,
 		gender: "Male",
-		image: `${avtarMale}`		
+		image: `${male_avtar}`		
 	},
 	{
 		id: 7,
@@ -57,7 +57,7 @@ const data = [
 		dob:"15 August",
 		age: 24,
 		gender: "Female",
-		image: `${avtarFemale}`
+		image: `${female_avtar}`
 	},
 	{
 		id: 8,
@@ -65,7 +65,7 @@ const data = [
 		dob:"07 October",
 		age: 36,
 		gender: "Female",
-		image: `${avtarFemale}`
+		image: `${female_avtar}`
 	},
 	{
 		id: 9,
@@ -73,7 +73,7 @@ const data = [
 		dob:"07 October",
 		age: 23,
 		gender: "Female",
-		image: `${avtarFemale}`
+		image: `${female_avtar}`
 	},
 	{
 		id: 10,
@@ -81,7 +81,7 @@ const data = [
 		dob:"10 October",
 		age: 24,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 11,
@@ -89,7 +89,7 @@ const data = [
 		dob:"10 October",
 		age: 30,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 12,
@@ -97,7 +97,7 @@ const data = [
 		dob:"12 October",
 		age: 31,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 13,
@@ -105,7 +105,7 @@ const data = [
 		dob:"12 October",
 		age: 20,
 		gender: "Female",
-		image: `${avtarFemale}`
+		image: `${female_avtar}`
 	},
 	{
 		id: 14,
@@ -113,7 +113,7 @@ const data = [
 		dob:"13 October",
 		age: 23,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 15,
@@ -121,7 +121,7 @@ const data = [
 		dob:"13 October",
 		age: 24,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 16,
@@ -129,7 +129,7 @@ const data = [
 		dob:"15 October",
 		age: 48,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 17,
@@ -137,7 +137,7 @@ const data = [
 		dob:"15 October",
 		age: 38,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 18,
@@ -145,7 +145,7 @@ const data = [
 		dob:"16 October",
 		age: 26,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 19,
@@ -153,7 +153,7 @@ const data = [
 		dob:"17 October",
 		age: 30,
 		gender: "Female",
-		image: `${avtarFemale}`
+		image: `${female_avtar}`
 	},
 	{
 		id: 20,
@@ -161,7 +161,7 @@ const data = [
 		dob:"17 October",
 		age: 32,
 		gender: "Female",
-		image: `${avtarFemale}`
+		image: `${female_avtar}`
 	},
 	{
 		id: 21,
@@ -169,7 +169,7 @@ const data = [
 		dob:"21 October",
 		age: 29,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 22,
@@ -177,7 +177,7 @@ const data = [
 		dob:"21 October",
 		age: 20,
 		gender: "Female",
-		image: `${avtarFemale}`
+		image: `${female_avtar}`
 	},
 	{
 		id: 23,
@@ -185,7 +185,7 @@ const data = [
 		dob:"22 October",
 		age: 51,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 24,
@@ -193,7 +193,7 @@ const data = [
 		dob:"23 October",
 		age: 52,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 25,
@@ -201,7 +201,7 @@ const data = [
 		dob:"23 October",
 		age: 37,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 26,
@@ -209,7 +209,7 @@ const data = [
 		dob:"24 October",
 		age: 33,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 27,
@@ -217,7 +217,7 @@ const data = [
 		dob:"26 October",
 		age: 34,
 		gender: "Female",
-		image: `${avtarFemale}`
+		image: `${female_avtar}`
 	},
 	{
 		id: 28,
@@ -225,7 +225,7 @@ const data = [
 		dob:"26 October",
 		age: 22,
 		gender: "Female",
-		image: `${avtarFemale}`
+		image: `${female_avtar}`
 	},
 	{
 		id: 29,
@@ -233,7 +233,7 @@ const data = [
 		dob:"26 October",
 		age: 19,
 		gender: "Female",
-		image: `${avtarFemale}`
+		image: `${female_avtar}`
 	},
 	{
 		id: 30,
@@ -241,7 +241,7 @@ const data = [
 		dob:"29 October",
 		age: 25,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 31,
@@ -249,7 +249,7 @@ const data = [
 		dob:"29 October",
 		age: 25,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 32,
@@ -257,7 +257,7 @@ const data = [
 		dob:"29 October",
 		age: 25,
 		gender: "Female",
-		image: `${avtarFemale}`
+		image: `${female_avtar}`
 	},
 	{
 		id: 33,
@@ -265,7 +265,7 @@ const data = [
 		dob:"29 October",
 		age: 31,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 34,
@@ -273,7 +273,7 @@ const data = [
 		dob:"29 October",
 		age: 25,
 		gender: "Female",
-		image: `${avtarFemale}`
+		image: `${female_avtar}`
 	},
 	{
 		id: 35,
@@ -281,7 +281,7 @@ const data = [
 		dob:"29 October",
 		age: 20,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 36,
@@ -289,7 +289,7 @@ const data = [
 		dob:"29 October",
 		age: 22,
 		gender: "Female",
-		image: `${avtarFemale}`
+		image: `${female_avtar}`
 	},
 	{
 		id: 37,
@@ -297,7 +297,7 @@ const data = [
 		dob:"29 October",
 		age: 42,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 38,
@@ -305,7 +305,7 @@ const data = [
 		dob:"29 October",
 		age: 25,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},
 	{
 		id: 39,
@@ -313,7 +313,7 @@ const data = [
 		dob:"29 October",
 		age: 26,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},	
 	{
 		id: 40,
@@ -321,7 +321,7 @@ const data = [
 		dob:"29 October",
 		age: 27,
 		gender: "Female",
-		image: `${avtarFemale}`
+		image: `${female_avtar}`
 	},
 	{
 		id: 41,
@@ -329,7 +329,7 @@ const data = [
 		dob:"29 October",
 		age: 29,
 		gender: "Female",
-		image: `${avtarFemale}`
+		image: `${female_avtar}`
 	},
 	{
 		id: 42,
@@ -337,7 +337,7 @@ const data = [
 		dob:"29 October",
 		age: 28,
 		gender: "Male",
-		image: `${avtarMale}`
+		image: `${male_avtar}`
 	},	
 ]
 
