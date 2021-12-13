@@ -1,11 +1,11 @@
-import React from "react";
-import Home from './components/Home';
+import React from 'react'
+import Home from "./components/Home";
+
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-} 
-from "react-router-dom";  
+  Route
+} from "react-router-dom"; 
 
 const App = () => {
   return (
@@ -14,8 +14,7 @@ const App = () => {
         <Route path="/" component={Home} />
       </Switch>
     </Router>
-
   );
-}
+};
 
 export default App;
