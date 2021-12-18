@@ -110,7 +110,7 @@ const data = [
 	{
 		id: 14,
 		name: 'Jatin Ranganathan',
-		dob:"13 October",
+		dob:"18 December",
 		age: 23,
 		gender: "Male",
 		image: `${male_avtar}`
